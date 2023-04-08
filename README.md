@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on universal native apps for iOS and Android.
 - 🌱 I’m currently learning **Python**, **Java**, **TypeScript**, **Swift** and **Kotlin**.
-- 👯 I’m looking to collaborate on new technologies.
+- 👯 I’m looking to collaborate on ***Machine Learning***.
 
 
 <!--
